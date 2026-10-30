@@ -1,5 +1,3 @@
-# math.py (local branch)
-
 a = float(input("Enter first number: "))
 b = float(input("Enter second number: "))
 
